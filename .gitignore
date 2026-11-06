@@ -1,0 +1,16 @@
+# Private settings and working material
+AGENTS.md
+DEVELOPMENT.md
+agent_docs/
+config.json
+config.json.*
+*.key.json
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+*.vbackup
+*.partial
+.DS_Store
